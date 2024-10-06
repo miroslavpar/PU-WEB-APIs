@@ -78,4 +78,4 @@ For completeness i'm adding it here as well :
 - curl -X DELETE localhost:8080/actors/1 -H "Content-Type: application/json"
 ````
 
-For the rest Endpoint it's similar with some adjustments in the body request
+For the other rest endpoints it's similar with some adjustments in the body request
